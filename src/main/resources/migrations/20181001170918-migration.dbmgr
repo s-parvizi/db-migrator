@@ -1,0 +1,1 @@
+ADD COLUMN users.* email STRING

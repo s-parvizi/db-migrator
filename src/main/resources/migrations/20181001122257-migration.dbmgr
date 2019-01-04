@@ -1,0 +1,3 @@
+ADD TABLE users
+ADD COLUMN users username STRING
+ADD COLUMN users password STRING

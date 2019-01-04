@@ -1,0 +1,4 @@
+ADD TABLE schema_history
+ADD COLUMN schema_history version STRING
+ADD COLUMN schema_history installed_on STRING
+ADD COLUMN schema_history execution_time STRING

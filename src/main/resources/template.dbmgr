@@ -1,0 +1,6 @@
+ADD TABLE table_name
+ADD COLUMN table_name column_name column_type
+CHG COLUMN_NAME table_name column_old_name column_new_name
+CHG COLUMN_TYPE table_name column_old_type column_new_type
+ADD ROW table_name columns#values
+
